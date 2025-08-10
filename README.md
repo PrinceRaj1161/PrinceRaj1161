@@ -10,7 +10,7 @@ I'm a passionate developer diving deep into **Django** and web development, with
 - 💻 6-7 months experience in **AI/ML**, focusing on **Computer Vision**  
 - 👯 Open to collaborating on **AI**, **Web**, and **Full-Stack** projects  
 - 💬 Ask me about **Python**, **Machine Learning**, **Deep Learning**, and **Django**  
-- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)  
+- 📫 Reach me at: [princeraj1161@gmail.com](mailto:princeraj1161@gmail.com)  
 - ⚡ Fun fact: I love exploring new tech and turning ideas into code!
 
 ---
@@ -26,7 +26,6 @@ I'm a passionate developer diving deep into **Django** and web development, with
 ## 🌟 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princeraj1161&layout=compact&theme=radical)
-![Yo's Repo Stats](https://github-readme-stats.vercel.app/api?username=princeraj1161&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 
 ---
