@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Yo
+# 👋 Hi, I’m Prince Raj
 
 I'm a passionate developer diving deep into **Django** and web development, with a strong background in **AI/ML**, especially **Computer Vision**.
 
