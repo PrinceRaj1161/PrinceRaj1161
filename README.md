@@ -25,7 +25,9 @@ I'm a passionate developer diving deep into **Django** and web development, with
 
 ## 🌟 GitHub Stats
 
-![Yo's GitHub stats](https://github-readme-stats.vercel.app/api?username=princeraj1161&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princeraj1161&layout=compact&theme=radical)
+![Yo's Repo Stats](https://github-readme-stats.vercel.app/api?username=princeraj1161&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
 
 ---
 
